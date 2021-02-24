@@ -1,2 +1,3 @@
-# spark_intro
- Introduction to Spark for Data Science
+# spark_intro - Master
+
+ Introduction to Spark for Data Science and MLlib
